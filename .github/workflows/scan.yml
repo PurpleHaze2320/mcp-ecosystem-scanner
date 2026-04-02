@@ -1,0 +1,42 @@
+name: Scan MCP Ecosystem
+
+on:
+  schedule:
+    # Runs daily at 07:00 UTC
+    - cron: '0 7 * * *'
+  workflow_dispatch:  # Allow manual trigger
+
+permissions:
+  contents: write
+
+jobs:
+  scan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run scanner
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scanner.py
+
+      - name: Generate dashboard
+        run: python dashboard.py
+
+      - name: Commit and push
+        run: |
+          git config user.name "MCP Scanner Bot"
+          git config user.email "bot@mcp-scanner.github.io"
+          git add data/ README.md
+          git diff --staged --quiet || git commit -m "🔬 Daily MCP ecosystem scan — $(date -u +'%Y-%m-%d')"
+          git push

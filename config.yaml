@@ -1,0 +1,85 @@
+# MCP Ecosystem Scanner - Configuration
+
+# GitHub search queries to discover MCP servers
+discovery:
+  github_queries:
+    - "mcp server in:name,description language:Python"
+    - "mcp server in:name,description language:TypeScript"
+    - "mcp-server in:name language:Python"
+    - "mcp-server in:name language:TypeScript"
+    - "model context protocol server in:description"
+    - "modelcontextprotocol in:readme"
+
+  # Known high-signal repos to always include
+  seed_repos:
+    - modelcontextprotocol/servers
+    - modelcontextprotocol/registry
+    - wong2/awesome-mcp-servers
+    - appcypher/awesome-mcp-servers
+    - microsoft/mcp
+
+  # Minimum stars to include (filters out noise)
+  min_stars: 3
+
+  # Max repos to scan per query
+  max_per_query: 100
+
+# Quality scoring weights
+scoring:
+  has_readme_weight: 10
+  has_license_weight: 5
+  has_tests_weight: 15
+  has_ci_weight: 10
+  stars_weight: 15
+  recent_commits_weight: 15
+  documentation_weight: 10
+  issue_responsiveness_weight: 10
+  release_exists_weight: 10
+
+# MCP server detection signals
+detection:
+  # Files that indicate an MCP server
+  indicator_files:
+    - "mcp.json"
+    - "mcp-config.json"
+    - ".mcp.json"
+
+  # Package dependency names that signal MCP
+  python_packages:
+    - "mcp"
+    - "modelcontextprotocol"
+    - "fastmcp"
+    - "mcp-server"
+
+  npm_packages:
+    - "@modelcontextprotocol/sdk"
+    - "@modelcontextprotocol/server"
+    - "mcp-framework"
+    - "fastmcp"
+
+  # README keywords that signal MCP server
+  readme_keywords:
+    - "MCP server"
+    - "Model Context Protocol"
+    - "mcp.run"
+    - "stdio transport"
+    - "SSE transport"
+
+# Categories for auto-classification
+categories:
+  data: ["database", "sql", "postgres", "mysql", "mongo", "redis", "sqlite", "supabase", "firebase"]
+  dev-tools: ["github", "gitlab", "git", "docker", "kubernetes", "ci", "deploy", "npm", "pip"]
+  productivity: ["slack", "notion", "google", "email", "calendar", "todoist", "linear", "jira", "asana"]
+  ai-ml: ["openai", "anthropic", "llm", "embedding", "vector", "rag", "huggingface"]
+  web: ["browser", "scrape", "crawl", "fetch", "search", "puppeteer", "playwright"]
+  files: ["filesystem", "file", "s3", "storage", "drive", "dropbox", "box"]
+  finance: ["stripe", "payment", "invoice", "accounting", "bank"]
+  communication: ["discord", "telegram", "whatsapp", "twilio", "sms"]
+  cloud: ["aws", "gcp", "azure", "cloudflare", "vercel"]
+  security: ["auth", "vault", "secret", "encrypt", "certificate"]
+  other: []
+
+# Dashboard settings
+dashboard:
+  top_n: 50
+  history_days: 90
