@@ -27,24 +27,39 @@ def get_headers():
     return headers
 
 
-def gh_get(url: str, params: dict = None) -> dict | list | None:
-    """GitHub API request with rate limit handling."""
+def gh_get(url: str, params: dict = None, _retries: int = 3) -> dict | list | None:
+    """GitHub API request with rate limit handling and retries."""
     if not url.startswith("http"):
         url = f"{GITHUB_API}{url}"
 
-    resp = requests.get(url, headers=get_headers(), params=params, timeout=30)
-
-    if resp.status_code == 403 and "rate limit" in resp.text.lower():
-        reset = int(resp.headers.get("X-RateLimit-Reset", time.time() + 60))
-        wait = max(reset - int(time.time()), 1)
-        print(f"  ⏳ Rate limited. Waiting {min(wait, 120)}s...")
-        time.sleep(min(wait, 120))
-        return gh_get(url, params)
-
-    if resp.status_code in (404, 422):
+    try:
+        resp = requests.get(url, headers=get_headers(), params=params, timeout=30)
+    except requests.exceptions.RequestException as e:
+        if _retries > 0:
+            print(f"  ⚠️ Request failed, retrying... ({e})")
+            time.sleep(5)
+            return gh_get(url, params, _retries - 1)
+        print(f"  ❌ Request failed after retries: {e}")
         return None
 
-    resp.raise_for_status()
+    if resp.status_code == 403:
+        if "rate limit" in resp.text.lower() or "abuse" in resp.text.lower():
+            reset = int(resp.headers.get("X-RateLimit-Reset", time.time() + 60))
+            wait = max(reset - int(time.time()), 1)
+            print(f"  ⏳ Rate limited. Waiting {min(wait, 90)}s...")
+            time.sleep(min(wait, 90))
+            if _retries > 0:
+                return gh_get(url, params, _retries - 1)
+        return None
+
+    if resp.status_code in (404, 422, 409, 500, 502, 503):
+        return None
+
+    try:
+        resp.raise_for_status()
+    except requests.exceptions.HTTPError:
+        return None
+
     return resp.json()
 
 
@@ -94,7 +109,7 @@ def search_github_repos(query: str, max_results: int = 100) -> list[dict]:
         if len(data["items"]) < per_page:
             break
         page += 1
-        time.sleep(1)  # Respect search rate limits
+        time.sleep(3)  # GitHub search API: 30 req/min limit
 
     return repos
 
@@ -107,11 +122,14 @@ def discover_servers(config: dict) -> dict[str, dict]:
     # Search GitHub
     for query in discovery["github_queries"]:
         print(f"🔍 Searching: {query}")
-        repos = search_github_repos(query, discovery.get("max_per_query", 100))
-        for r in repos:
-            if r["stars"] >= discovery.get("min_stars", 3):
-                all_repos[r["full_name"]] = r
-        time.sleep(2)
+        try:
+            repos = search_github_repos(query, discovery.get("max_per_query", 100))
+            for r in repos:
+                if r["stars"] >= discovery.get("min_stars", 3):
+                    all_repos[r["full_name"]] = r
+        except Exception as e:
+            print(f"  ⚠️ Search failed for query, skipping: {e}")
+        time.sleep(5)  # Be generous between search queries
 
     # Add seed repos
     for repo_name in discovery.get("seed_repos", []):
@@ -198,7 +216,7 @@ def validate_mcp_server(repo_data: dict, config: dict) -> dict:
         metadata["transport"].append("streamable-http")
 
     # Detect SDK / language
-    lang = repo_data.get("language", "").lower()
+    lang = (repo_data.get("language") or "").lower()
 
     if lang in ("python", ""):
         # Check pyproject.toml or requirements.txt for MCP packages
@@ -387,13 +405,16 @@ def run_scan(config: dict) -> dict:
 
     for i, (name, repo_data) in enumerate(candidates.items(), 1):
         print(f"[{i}/{total}] Validating {name}...", end=" ")
-        validation = validate_mcp_server(repo_data, config)
+        try:
+            validation = validate_mcp_server(repo_data, config)
 
-        if validation["is_mcp"]:
-            print(f"✅ MCP server (confidence: {validation['confidence']:.0%})")
-            confirmed[name] = {**repo_data, "validation": validation}
-        else:
-            print("❌ Not an MCP server")
+            if validation["is_mcp"]:
+                print(f"✅ MCP server (confidence: {validation['confidence']:.0%})")
+                confirmed[name] = {**repo_data, "validation": validation}
+            else:
+                print("❌ Not an MCP server")
+        except Exception as e:
+            print(f"⚠️ Error validating, skipping: {e}")
 
         time.sleep(0.3)
 
