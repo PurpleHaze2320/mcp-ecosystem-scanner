@@ -8,7 +8,7 @@
 > The most comprehensive automated registry of [Model Context Protocol](https://modelcontextprotocol.io/) servers.
 > Discovers, validates, and quality-scores every MCP server on GitHub — daily.
 
-> **452** servers catalogued | **10** categories | Last scan: **2026-06-06 09:36 UTC**
+> **452** servers catalogued | **10** categories | Last scan: **2026-06-07 10:10 UTC**
 
 ## Why This Exists
 
@@ -31,7 +31,7 @@ based on documentation, tests, CI, maintenance activity, and community adoption.
 | New This Month | **0** |
 | Categories | **10** |
 
-**Languages:** **TypeScript**: 205 · **Python**: 199 · **Go**: 13 · **JavaScript**: 13 · **Unknown**: 8 · **C#**: 4
+**Languages:** **TypeScript**: 205 · **Python**: 199 · **JavaScript**: 13 · **Go**: 13 · **Unknown**: 8 · **C#**: 4
 
 **Transports:** `stdio`: 234 · `sse`: 345 · `streamable-http`: 111 · `unknown`: 69
 
@@ -42,34 +42,34 @@ based on documentation, tests, CI, maintenance activity, and community adoption.
 | Rank | Server | Quality | Stars | Description | Category | Transport |
 |------|--------|---------|-------|-------------|----------|-----------|
 | 1 | [playwright-mcp](https://github.com/microsoft/playwright-mcp) | █████████░ **90** | 33.6k | Playwright MCP server | `web` | `stdio` `SSE` |
-| 2 | [Windows-MCP](https://github.com/CursorTouch/Windows-MCP) | █████████░ **90** | 5.9k | MCP Server for Computer Use in Windows | `other` | `stdio` `SSE` `HTTP` |
-| 3 | [ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | █████████░ **90** | 3.3k | The Unofficial and Awesome Home Assistant MCP Server | `dev-tools` | `stdio` `SSE` `HTTP` |
-| 4 | [context-mode](https://github.com/mksglu/context-mode) | █████████░ **90** | 16.5k | Context window optimization for AI coding agents. Sandboxes tool outpu | `files` | `stdio` `SSE` |
-| 5 | [fast-agent](https://github.com/evalstate/fast-agent) | █████████░ **89** | 3.8k | Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP S | `other` | `stdio` `SSE` `HTTP` |
-| 6 | [mcporter](https://github.com/openclaw/mcporter) | █████████░ **89** | 4.6k | Call MCPs via TypeScript, masquerading as simple TypeScript API. Or pa | `other` | `stdio` `SSE` `HTTP` |
-| 7 | [mcphub](https://github.com/samanhappy/mcphub) | █████████░ **89** | 2.1k | A unified hub for centrally managing and dynamically orchestrating mul | `other` | `stdio` `SSE` `HTTP` |
-| 8 | [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) | █████████░ **89** | 9.1k | AI-powered reverse engineering assistant that bridges IDA Pro with lan | `other` | `stdio` `SSE` |
-| 9 | [fastmcp](https://github.com/PrefectHQ/fastmcp) | █████████░ **89** | 25.5k | 🚀 The fast, Pythonic way to build MCP servers and clients. | `ai-ml` | `SSE` |
+| 2 | [ha-mcp](https://github.com/homeassistant-ai/ha-mcp) | █████████░ **90** | 3.3k | The Unofficial and Awesome Home Assistant MCP Server | `dev-tools` | `stdio` `SSE` `HTTP` |
+| 3 | [Windows-MCP](https://github.com/CursorTouch/Windows-MCP) | █████████░ **90** | 5.9k | MCP Server for Computer Use in Windows | `other` | `stdio` `SSE` `HTTP` |
+| 4 | [context-mode](https://github.com/mksglu/context-mode) | █████████░ **90** | 16.6k | Context window optimization for AI coding agents. Sandboxes tool outpu | `files` | `stdio` `SSE` |
+| 5 | [mcporter](https://github.com/openclaw/mcporter) | █████████░ **90** | 4.6k | Call MCPs via TypeScript, masquerading as simple TypeScript API. Or pa | `other` | `stdio` `SSE` `HTTP` |
+| 6 | [fast-agent](https://github.com/evalstate/fast-agent) | █████████░ **89** | 3.8k | Code, Build and Evaluate agents - excellent Model and Skills/MCP/ACP S | `other` | `stdio` `SSE` `HTTP` |
+| 7 | [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) | █████████░ **89** | 9.2k | AI-powered reverse engineering assistant that bridges IDA Pro with lan | `other` | `stdio` `SSE` |
+| 8 | [mcphub](https://github.com/samanhappy/mcphub) | █████████░ **89** | 2.1k | A unified hub for centrally managing and dynamically orchestrating mul | `other` | `stdio` `SSE` `HTTP` |
+| 9 | [fastmcp](https://github.com/PrefectHQ/fastmcp) | █████████░ **88** | 25.5k | 🚀 The fast, Pythonic way to build MCP servers and clients. | `ai-ml` | `SSE` |
 | 10 | [Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) | █████████░ **88** | 15.0k | MCP server to provide Figma layout information to AI coding agents lik | `other` | `stdio` |
 | 11 | [EvoScientist](https://github.com/EvoScientist/EvoScientist) | █████████░ **88** | 3.4k | 🔬 Harness Vibe Research with Self-evolving AI Scientists | `dev-tools` | `SSE` |
 | 12 | [google_workspace_mcp](https://github.com/taylorwilsdon/google_workspace_mcp) | █████████░ **88** | 2.6k | Control Gmail, Google Calendar, Docs, Sheets, Slides, Chat, Forms, Tas | `productivity` | `stdio` `SSE` `HTTP` |
-| 13 | [registry](https://github.com/modelcontextprotocol/registry) | █████████░ **88** | 6.9k | A community driven registry service for Model Context Protocol (MCP) s | `files` | `SSE` |
+| 13 | [csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk) | █████████░ **88** | 4.3k | The official C# SDK for Model Context Protocol servers and clients. Ma | `dev-tools` | `SSE` |
 | 14 | [brightdata-mcp](https://github.com/brightdata/brightdata-mcp) | █████████░ **88** | 2.4k | A powerful Model Context Protocol (MCP) server that provides an all-in | `web` | `SSE` |
-| 15 | [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) | █████████░ **88** | 2.1k | Open-source MCP server for LinkedIn. Give Claude and any MCP-compatibl | `ai-ml` | `stdio` `HTTP` |
-| 16 | [csharp-sdk](https://github.com/modelcontextprotocol/csharp-sdk) | █████████░ **88** | 4.3k | The official C# SDK for Model Context Protocol servers and clients. Ma | `dev-tools` | `SSE` |
-| 17 | [CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) | █████████░ **88** | 3.6k | An MCP server plus a CLI tool that indexes local code into a graph dat | `data` | `SSE` |
-| 18 | [arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) | █████████░ **88** | 2.8k | A Model Context Protocol server for searching and analyzing arXiv pape | `ai-ml` | `stdio` `SSE` `HTTP` |
-| 19 | [python-sdk](https://github.com/modelcontextprotocol/python-sdk) | █████████░ **88** | 23.3k | The official Python SDK for Model Context Protocol servers and clients | `dev-tools` | `stdio` `SSE` `HTTP` |
+| 15 | [linkedin-mcp-server](https://github.com/stickerdaniel/linkedin-mcp-server) | █████████░ **88** | 2.2k | Open-source MCP server for LinkedIn. Give Claude and any MCP-compatibl | `ai-ml` | `stdio` `HTTP` |
+| 16 | [registry](https://github.com/modelcontextprotocol/registry) | █████████░ **88** | 6.9k | A community driven registry service for Model Context Protocol (MCP) s | `files` | `SSE` |
+| 17 | [arxiv-mcp-server](https://github.com/blazickjp/arxiv-mcp-server) | █████████░ **88** | 2.8k | A Model Context Protocol server for searching and analyzing arXiv pape | `ai-ml` | `stdio` `SSE` `HTTP` |
+| 18 | [python-sdk](https://github.com/modelcontextprotocol/python-sdk) | █████████░ **88** | 23.3k | The official Python SDK for Model Context Protocol servers and clients | `dev-tools` | `stdio` `SSE` `HTTP` |
+| 19 | [CodeGraphContext](https://github.com/CodeGraphContext/CodeGraphContext) | █████████░ **88** | 3.6k | An MCP server plus a CLI tool that indexes local code into a graph dat | `data` | `SSE` |
 | 20 | [mobile-mcp](https://github.com/mobile-next/mobile-mcp) | █████████░ **87** | 5.1k | Model Context Protocol Server for Mobile Automation and Scraping (iOS, | `other` | `stdio` `SSE` |
 | 21 | [typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | █████████░ **87** | 12.6k | The official TypeScript SDK for Model Context Protocol servers and cli | `dev-tools` | `stdio` `HTTP` |
 | 22 | [gemini-mcp-tool](https://github.com/jamubc/gemini-mcp-tool) | █████████░ **87** | 2.2k | MCP server that enables AI assistants to interact with Google Gemini C | `dev-tools` | `SSE` |
 | 23 | [agent-scan](https://github.com/snyk/agent-scan) | █████████░ **87** | 2.5k | Security scanner for AI agents, MCP servers and agent skills. | `other` | `stdio` `SSE` |
-| 24 | [gpt-researcher](https://github.com/assafelovic/gpt-researcher) | █████████░ **87** | 27.5k | An autonomous agent that conducts deep research on any data using any  | `ai-ml` | `SSE` |
-| 25 | [mcp-server-chart](https://github.com/antvis/mcp-server-chart) | █████████░ **87** | 4.1k | 🤖 A visualization mcp & skills contains 25+ visual charts using @antvi | `ai-ml` | `stdio` `SSE` |
+| 24 | [gpt-researcher](https://github.com/assafelovic/gpt-researcher) | █████████░ **86** | 27.5k | An autonomous agent that conducts deep research on any data using any  | `ai-ml` | `SSE` |
+| 25 | [mcp-server-chart](https://github.com/antvis/mcp-server-chart) | █████████░ **86** | 4.1k | 🤖 A visualization mcp & skills contains 25+ visual charts using @antvi | `ai-ml` | `stdio` `SSE` |
 | 26 | [mcp-context-forge](https://github.com/IBM/mcp-context-forge) | █████████░ **86** | 3.8k | An AI Gateway, registry, and proxy that sits in front of any MCP, A2A, | `dev-tools` | `stdio` `SSE` `HTTP` |
 | 27 | [5ire](https://github.com/nanbingxyz/5ire) | █████████░ **86** | 5.2k | 5ire is a cross-platform desktop AI assistant, MCP client. It compatib | `ai-ml` | `SSE` |
-| 28 | [headroom](https://github.com/chopratejas/headroom) | █████████░ **85** | 15.0k | Compress tool outputs, logs, files, and RAG chunks before they reach t | `ai-ml` | `SSE` |
-| 29 | [optillm](https://github.com/algorithmicsuperintelligence/optillm) | █████████░ **85** | 4.1k | Optimizing inference proxy for LLMs | `ai-ml` | `stdio` `SSE` |
+| 28 | [headroom](https://github.com/chopratejas/headroom) | █████████░ **85** | 16.3k | Compress tool outputs, logs, files, and RAG chunks before they reach t | `ai-ml` | `SSE` |
+| 29 | [optillm](https://github.com/algorithmicsuperintelligence/optillm) | ████████░░ **85** | 4.1k | Optimizing inference proxy for LLMs | `ai-ml` | `stdio` `SSE` |
 | 30 | [mcp-proxy](https://github.com/sparfenyuk/mcp-proxy) | ████████░░ **85** | 2.6k | A bridge between Streamable HTTP and stdio MCP transports | `other` | `stdio` `SSE` `HTTP` |
 
 ---
@@ -80,11 +80,11 @@ based on documentation, tests, CI, maintenance activity, and community adoption.
 
 | Server | Stars | Quality | Description |
 |--------|-------|---------|-------------|
-| [gpt-researcher](https://github.com/assafelovic/gpt-researcher) | ⭐ 27.5k | 87 | An autonomous agent that conducts deep research on any data using any LLM provid |
-| [fastmcp](https://github.com/PrefectHQ/fastmcp) | ⭐ 25.5k | 89 | 🚀 The fast, Pythonic way to build MCP servers and clients. |
+| [gpt-researcher](https://github.com/assafelovic/gpt-researcher) | ⭐ 27.5k | 86 | An autonomous agent that conducts deep research on any data using any LLM provid |
+| [fastmcp](https://github.com/PrefectHQ/fastmcp) | ⭐ 25.5k | 88 | 🚀 The fast, Pythonic way to build MCP servers and clients. |
 | [Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | ⭐ 16.5k | 75 | Agent framework and applications built upon Qwen>=3.0, featuring Function Callin |
+| [headroom](https://github.com/chopratejas/headroom) | ⭐ 16.3k | 85 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60 |
 | [DeepCode](https://github.com/HKUDS/DeepCode) | ⭐ 15.8k | 84 | "DeepCode: Open Agentic Coding (Paper2Code & Text2Web & Text2Backend)" |
-| [headroom](https://github.com/chopratejas/headroom) | ⭐ 15.0k | 85 | Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 60 |
 | [pal-mcp-server](https://github.com/BeehiveInnovations/pal-mcp-server) | ⭐ 11.6k | 72 | The power of Claude Code / GeminiCLI / CodexCLI + [Gemini / OpenAI / OpenRouter  |
 | [mcp-use](https://github.com/mcp-use/mcp-use) | ⭐ 10.1k | 74 | The fullstack MCP framework to develop MCP Apps for ChatGPT / Claude & MCP Serve |
 | [mcp-agent](https://github.com/lastmile-ai/mcp-agent) | ⭐ 8.4k | 72 | Build effective agents using Model Context Protocol and simple workflow patterns |
@@ -93,7 +93,7 @@ based on documentation, tests, CI, maintenance activity, and community adoption.
 | [5ire](https://github.com/nanbingxyz/5ire) | ⭐ 5.2k | 86 | 5ire is a cross-platform desktop AI assistant, MCP client. It compatible with ma |
 | [mcp-ui](https://github.com/MCP-UI-Org/mcp-ui) | ⭐ 4.9k | 66 | UI over MCP. Create next-gen UI experiences with the protocol and SDK! |
 | [claude-code-guide](https://github.com/zebbern/claude-code-guide) | ⭐ 4.2k | 64 | Claude Code Guide - Setup, Commands, workflows, agents, skills & tips-n-tricks g |
-| [mcp-server-chart](https://github.com/antvis/mcp-server-chart) | ⭐ 4.1k | 87 | 🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using f |
+| [mcp-server-chart](https://github.com/antvis/mcp-server-chart) | ⭐ 4.1k | 86 | 🤖 A visualization mcp & skills contains 25+ visual charts using @antvis. Using f |
 | [optillm](https://github.com/algorithmicsuperintelligence/optillm) | ⭐ 4.1k | 85 | Optimizing inference proxy for LLMs |
 | *...and 67 more* | | | |
 
@@ -121,7 +121,7 @@ based on documentation, tests, CI, maintenance activity, and community adoption.
 | [mysql_mcp_server](https://github.com/designcomputer/mysql_mcp_server) | ⭐ 1.3k | 0 | A Model Context Protocol (MCP) server that enables secure interaction with MySQL |
 | [nocturne_memory](https://github.com/Dataojitori/nocturne_memory) | ⭐ 1.2k | 0 | A lightweight, rollbackable, and visual Long-Term Memory Server for MCP Agents.  |
 | [mongodb-mcp-server](https://github.com/mongodb-js/mongodb-mcp-server) | ⭐ 1.0k | 0 | A Model Context Protocol server to connect to MongoDB databases and MongoDB Atla |
-| [yargi-mcp](https://github.com/saidsurucu/yargi-mcp) | ⭐ 960 | 0 | MCP Server For Turkish Legal Databases |
+| [yargi-mcp](https://github.com/saidsurucu/yargi-mcp) | ⭐ 962 | 0 | MCP Server For Turkish Legal Databases |
 | [mcp-neo4j](https://github.com/neo4j-contrib/mcp-neo4j) | ⭐ 955 | 0 | Neo4j Labs Model Context Protocol servers |
 | [supabase-mcp-server](https://github.com/alexander-zuev/supabase-mcp-server) | ⭐ 828 | 0 | Query MCP enables end-to-end management of Supabase via chat interface: read & w |
 | [mcp-gateway-registry](https://github.com/agentic-community/mcp-gateway-registry) | ⭐ 679 | 0 | Enterprise-ready MCP Gateway & Registry that centralizes AI development tools wi |
@@ -135,10 +135,10 @@ based on documentation, tests, CI, maintenance activity, and community adoption.
 
 | Server | Stars | Quality | Description |
 |--------|-------|---------|-------------|
-| [TrendRadar](https://github.com/sansan0/TrendRadar) | ⭐ 59.0k | 64 | ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS,  |
+| [TrendRadar](https://github.com/sansan0/TrendRadar) | ⭐ 59.1k | 64 | ⭐AI-driven public opinion & trend monitor with multi-platform aggregation, RSS,  |
 | [python-sdk](https://github.com/modelcontextprotocol/python-sdk) | ⭐ 23.3k | 88 | The official Python SDK for Model Context Protocol servers and clients |
 | [typescript-sdk](https://github.com/modelcontextprotocol/typescript-sdk) | ⭐ 12.6k | 87 | The official TypeScript SDK for Model Context Protocol servers and clients |
-| [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | ⭐ 9.3k | 47 | HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, G |
+| [hexstrike-ai](https://github.com/0x4m4/hexstrike-ai) | ⭐ 9.4k | 46 | HexStrike AI MCP Agents is an advanced MCP server that lets AI agents (Claude, G |
 | [modelcontextprotocol](https://github.com/modelcontextprotocol/modelcontextprotocol) | ⭐ 8.3k | 73 | Specification and documentation for the Model Context Protocol |
 | [git-mcp](https://github.com/idosal/git-mcp) | ⭐ 8.1k | 70 | Put an end to code hallucinations! GitMCP is a free, open-source, remote MCP ser |
 | [jscpd](https://github.com/kucherenko/jscpd) | ⭐ 5.7k | 74 | Copy/paste detector for programming source code, supports 223 formats. AI-ready  |
@@ -156,16 +156,16 @@ based on documentation, tests, CI, maintenance activity, and community adoption.
 
 | Server | Stars | Quality | Description |
 |--------|-------|---------|-------------|
-| [context-mode](https://github.com/mksglu/context-mode) | ⭐ 16.5k | 90 | Context window optimization for AI coding agents. Sandboxes tool output, 98% red |
+| [context-mode](https://github.com/mksglu/context-mode) | ⭐ 16.6k | 90 | Context window optimization for AI coding agents. Sandboxes tool output, 98% red |
 | [webiny-js](https://github.com/webiny/webiny-js) | ⭐ 8.0k | 73 | Open-source, self-hosted CMS platform on AWS serverless (Lambda, DynamoDB, S3).  |
 | [registry](https://github.com/modelcontextprotocol/registry) | ⭐ 6.9k | 88 | A community driven registry service for Model Context Protocol (MCP) servers. |
 | [sandbox](https://github.com/agent-infra/sandbox) | ⭐ 4.9k | 68 | All-in-One Sandbox for AI Agents that combines Browser, Shell, File, MCP and VSC |
 | [spec-workflow-mcp](https://github.com/Pimzino/spec-workflow-mcp) | ⭐ 4.2k | 62 | A Model Context Protocol (MCP) server that provides structured spec-driven devel |
-| [mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) | ⭐ 648 | 0 | Go server implementing Model Context Protocol (MCP) for filesystem operations. |
+| [mcp-filesystem-server](https://github.com/mark3labs/mcp-filesystem-server) | ⭐ 649 | 0 | Go server implementing Model Context Protocol (MCP) for filesystem operations. |
 | [enrichmcp](https://github.com/featureform/enrichmcp) | ⭐ 645 | 0 | EnrichMCP is a python framework for building data driven MCP servers |
 | [mcp-server-spec-driven-development](https://github.com/formulahendry/mcp-server-spec-driven-development) | ⭐ 430 | 0 | Spec-Driven Development MCP Server, not just Vibe Coding |
-| [mcp-server](https://github.com/mapbox/mcp-server) | ⭐ 344 | 0 | Mapbox Model Context Protocol (MCP) server |
-| [OpenSCAD-MCP-Server](https://github.com/jhacksman/OpenSCAD-MCP-Server) | ⭐ 154 | 0 | Devin's attempt at creating an OpenSCAD MCP Server that takes a user prompt and  |
+| [mcp-server](https://github.com/mapbox/mcp-server) | ⭐ 345 | 0 | Mapbox Model Context Protocol (MCP) server |
+| [OpenSCAD-MCP-Server](https://github.com/jhacksman/OpenSCAD-MCP-Server) | ⭐ 155 | 0 | Devin's attempt at creating an OpenSCAD MCP Server that takes a user prompt and  |
 | [mcp_server_exe](https://github.com/shadowcz007/mcp_server_exe) | ⭐ 149 | 0 | 小智 & Cursor 的 MCP 启动器 - MCP For Cursor&xiaozhi。打包成可执行文件。Turn MCP server into an  |
 
 ### Finance (2 servers)
@@ -173,27 +173,27 @@ based on documentation, tests, CI, maintenance activity, and community adoption.
 | Server | Stars | Quality | Description |
 |--------|-------|---------|-------------|
 | [mcp-boilerplate](https://github.com/iannuttall/mcp-boilerplate) | ⭐ 1.0k | 0 | A remote Cloudflare MCP server boilerplate with user authentication and Stripe f |
-| [memory-bank-mcp](https://github.com/alioshr/memory-bank-mcp) | ⭐ 906 | 0 | A Model Context Protocol (MCP) server implementation for remote memory bank mana |
+| [memory-bank-mcp](https://github.com/alioshr/memory-bank-mcp) | ⭐ 909 | 0 | A Model Context Protocol (MCP) server implementation for remote memory bank mana |
 
 ### Other (171 servers)
 
 | Server | Stars | Quality | Description |
 |--------|-------|---------|-------------|
-| [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ⭐ 88.6k | 64 | A collection of MCP servers. |
-| [servers](https://github.com/modelcontextprotocol/servers) | ⭐ 86.8k | 72 | Model Context Protocol Servers |
+| [awesome-mcp-servers](https://github.com/punkpeye/awesome-mcp-servers) | ⭐ 88.6k | 65 | A collection of MCP servers. |
+| [servers](https://github.com/modelcontextprotocol/servers) | ⭐ 86.9k | 72 | Model Context Protocol Servers |
 | [activepieces](https://github.com/activepieces/activepieces) | ⭐ 22.6k | 74 | AI Agents & MCPs & AI Workflow Automation • (~400 MCP servers for AI agents) • A |
 | [Figma-Context-MCP](https://github.com/GLips/Figma-Context-MCP) | ⭐ 15.0k | 88 | MCP server to provide Figma layout information to AI coding agents like Cursor |
-| [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | ⭐ 14.0k | 64 | MCP for xiaohongshu.com |
+| [xiaohongshu-mcp](https://github.com/xpzouying/xiaohongshu-mcp) | ⭐ 14.0k | 65 | MCP for xiaohongshu.com |
 | [aisuite](https://github.com/andrewyng/aisuite) | ⭐ 13.8k | 68 | Simple, unified interface to multiple Generative AI providers  |
 | [inspector](https://github.com/modelcontextprotocol/inspector) | ⭐ 10.0k | 72 | Visual testing tool for MCP servers |
-| [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) | ⭐ 9.1k | 89 | AI-powered reverse engineering assistant that bridges IDA Pro with language mode |
-| [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | ⭐ 7.2k | 54 | MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients |
+| [ida-pro-mcp](https://github.com/mrexodia/ida-pro-mcp) | ⭐ 9.2k | 89 | AI-powered reverse engineering assistant that bridges IDA Pro with language mode |
+| [Awesome-MCP-ZH](https://github.com/yzfly/Awesome-MCP-ZH) | ⭐ 7.2k | 53 | MCP 资源精选， MCP指南，Claude MCP，MCP Servers, MCP Clients |
 | [stitch-skills](https://github.com/google-labs-code/stitch-skills) | ⭐ 5.9k | 71 | A library of Agent Skills designed to work with the Stitch MCP server. Each skil |
 | [Windows-MCP](https://github.com/CursorTouch/Windows-MCP) | ⭐ 5.9k | 90 | MCP Server for Computer Use in Windows |
-| [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) | ⭐ 5.8k | 74 | A Model Context Protocol (MCP) server and CLI that provides tools for agent use  |
+| [XcodeBuildMCP](https://github.com/getsentry/XcodeBuildMCP) | ⭐ 5.9k | 74 | A Model Context Protocol (MCP) server and CLI that provides tools for agent use  |
 | [mobile-mcp](https://github.com/mobile-next/mobile-mcp) | ⭐ 5.1k | 87 | Model Context Protocol Server for Mobile Automation and Scraping (iOS, Android,  |
 | [magic-mcp](https://github.com/21st-dev/magic-mcp) | ⭐ 5.0k | 32 | It's like v0 but in your Cursor/WindSurf/Cline. 21st dev Magic MCP server for wo |
-| [mcporter](https://github.com/openclaw/mcporter) | ⭐ 4.6k | 89 | Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them |
+| [mcporter](https://github.com/openclaw/mcporter) | ⭐ 4.6k | 90 | Call MCPs via TypeScript, masquerading as simple TypeScript API. Or package them |
 | *...and 156 more* | | | |
 
 ### Productivity (16 servers)
@@ -207,11 +207,11 @@ based on documentation, tests, CI, maintenance activity, and community adoption.
 | [slack-mcp-server](https://github.com/korotovsky/slack-mcp-server) | ⭐ 1.6k | 0 | The most powerful MCP Slack Server with no permission requirements, Apps support |
 | [phantom](https://github.com/ghostwright/phantom) | ⭐ 1.4k | 0 | An AI co-worker with its own computer. Self-evolving, persistent memory, MCP ser |
 | [keeper.sh](https://github.com/ridafkih/keeper.sh) | ⭐ 1.1k | 0 | Calendar sync tool & universal calendar MCP server. Aggregate, sync and control  |
-| [mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) | ⭐ 894 | 0 | This MCP server integrates with your Google Drive and Google Sheets, to enable c |
+| [mcp-google-sheets](https://github.com/xing5/mcp-google-sheets) | ⭐ 895 | 0 | This MCP server integrates with your Google Drive and Google Sheets, to enable c |
 | [colab-mcp](https://github.com/googlecolab/colab-mcp) | ⭐ 659 | 0 | An MCP server for interacting with Google Colab |
 | [nanobanana-mcp-server](https://github.com/zhongweili/nanobanana-mcp-server) | ⭐ 361 | 0 | AI image generation MCP server powered by Google Gemini, with smart model select |
-| [Google-Scholar-MCP-Server](https://github.com/JackKuo666/Google-Scholar-MCP-Server) | ⭐ 346 | 0 | A MCP Server for Google Scholar: 🔍 Enable AI assistants to search and access Goo |
-| [mcp-email-server](https://github.com/ai-zerolab/mcp-email-server) | ⭐ 250 | 0 | IMAP and SMTP via MCP Server |
+| [Google-Scholar-MCP-Server](https://github.com/JackKuo666/Google-Scholar-MCP-Server) | ⭐ 347 | 0 | A MCP Server for Google Scholar: 🔍 Enable AI assistants to search and access Goo |
+| [mcp-email-server](https://github.com/ai-zerolab/mcp-email-server) | ⭐ 251 | 0 | IMAP and SMTP via MCP Server |
 | [mcp-server-gsc](https://github.com/ahonn/mcp-server-gsc) | ⭐ 223 | 0 | A Model Context Protocol (MCP) server providing access to Google Search Console |
 | [google-tag-manager-mcp-server](https://github.com/stape-io/google-tag-manager-mcp-server) | ⭐ 164 | 0 | MCP server for Google Tag Manager |
 | [mcp-server-asana](https://github.com/roychri/mcp-server-asana) | ⭐ 140 | 0 | — |
@@ -253,16 +253,16 @@ based on documentation, tests, CI, maintenance activity, and community adoption.
 
 | Server | README | License | Tests | CI | Releases | Stars | Recency | Issues | **Total** |
 |--------|:------:|:-------:|:-----:|:--:|:--------:|:-----:|:-------:|:------:|:---------:|
-| **playwright-mcp** | ✅ | ✅ | ✅ | ✅ | ✅ | 33.6k | yesterday | 847/851 | **90** |
+| **playwright-mcp** | ✅ | ✅ | ✅ | ✅ | ✅ | 33.6k | 2d ago | 847/851 | **90** |
+| **ha-mcp** | ✅ | ✅ | ✅ | ✅ | ✅ | 3.3k | today | 459/470 | **90** |
 | **Windows-MCP** | ✅ | ✅ | ✅ | ✅ | ✅ | 5.9k | today | 109/112 | **90** |
-| **ha-mcp** | ✅ | ✅ | ✅ | ✅ | ✅ | 3.3k | today | 458/470 | **90** |
-| **context-mode** | ✅ | ✅ | ✅ | ✅ | ✅ | 16.5k | today | 341/356 | **90** |
+| **context-mode** | ✅ | ✅ | ✅ | ✅ | ✅ | 16.6k | today | 342/358 | **90** |
+| **mcporter** | ✅ | ✅ | ✅ | ✅ | ✅ | 4.6k | today | 93/97 | **90** |
 | **fast-agent** | ✅ | ✅ | ✅ | ✅ | ✅ | 3.8k | today | 231/247 | **89** |
-| **mcporter** | ✅ | ✅ | ✅ | ✅ | ✅ | 4.6k | 6d ago | 92/94 | **89** |
-| **mcphub** | ✅ | ✅ | ✅ | ✅ | ✅ | 2.1k | today | 295/329 | **89** |
-| **ida-pro-mcp** | ✅ | ✅ | ✅ | ✅ | ✅ | 9.1k | today | 196/226 | **89** |
-| **fastmcp** | ✅ | ✅ | ✅ | ✅ | ✅ | 25.5k | today | 1397/1625 | **89** |
-| **Figma-Context-MCP** | ✅ | ✅ | ✅ | ✅ | ✅ | 15.0k | 9d ago | 164/174 | **88** |
+| **ida-pro-mcp** | ✅ | ✅ | ✅ | ✅ | ✅ | 9.2k | today | 203/226 | **89** |
+| **mcphub** | ✅ | ✅ | ✅ | ✅ | ✅ | 2.1k | today | 296/331 | **89** |
+| **fastmcp** | ✅ | ✅ | ✅ | ✅ | ✅ | 25.5k | yesterday | 1397/1627 | **88** |
+| **Figma-Context-MCP** | ✅ | ✅ | ✅ | ✅ | ✅ | 15.0k | 10d ago | 164/175 | **88** |
 
 ---
 
@@ -318,6 +318,6 @@ seed_repos:
 
 ---
 
-*Powered by GitHub Actions · Scanned daily · Last run: 2026-06-06 09:36 UTC*
+*Powered by GitHub Actions · Scanned daily · Last run: 2026-06-07 10:10 UTC*
 
 *Built to solve the MCP ecosystem's [discovery gap](https://blog.modelcontextprotocol.io/posts/2026-mcp-roadmap/) — because the protocol's own roadmap says discoverability is a top priority.*
