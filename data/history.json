@@ -409,6 +409,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 89706,
       "quality_score": 65.0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 89775,
+      "quality_score": 64.8
     }
   ],
   "modelcontextprotocol/servers": [
@@ -826,6 +831,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 87632,
       "quality_score": 71.4
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 87683,
+      "quality_score": 71.3
     }
   ],
   "sansan0/TrendRadar": [
@@ -1243,6 +1253,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 59855,
       "quality_score": 64.0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 59899,
+      "quality_score": 63.9
     }
   ],
   "HKUDS/nanobot": [
@@ -1752,6 +1767,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 34283,
       "quality_score": 89.9
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 34313,
+      "quality_score": 90.0
     }
   ],
   "assafelovic/gpt-researcher": [
@@ -2169,6 +2189,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 27872,
       "quality_score": 87.4
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 27900,
+      "quality_score": 87.8
     }
   ],
   "PrefectHQ/fastmcp": [
@@ -2586,6 +2611,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 25774,
       "quality_score": 88.2
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 25784,
+      "quality_score": 88.6
     }
   ],
   "modelcontextprotocol/python-sdk": [
@@ -3002,6 +3032,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 23431,
+      "quality_score": 87.6
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 23442,
       "quality_score": 87.6
     }
   ],
@@ -3432,6 +3467,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 22953,
       "quality_score": 73.8
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 22978,
+      "quality_score": 73.8
     }
   ],
   "QwenLM/Qwen-Agent": [
@@ -3849,6 +3889,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 16603,
       "quality_score": 73.0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 16610,
+      "quality_score": 72.9
     }
   ],
   "HKUDS/DeepCode": [
@@ -4266,6 +4311,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 15848,
       "quality_score": 82.2
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 15852,
+      "quality_score": 82.1
     }
   ],
   "GLips/Figma-Context-MCP": [
@@ -4683,6 +4733,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 15220,
       "quality_score": 89.2
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 15229,
+      "quality_score": 89.7
     }
   ],
   "andrewyng/aisuite": [
@@ -5100,6 +5155,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 14830,
       "quality_score": 82.8
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 14842,
+      "quality_score": 82.7
     }
   ],
   "xpzouying/xiaohongshu-mcp": [
@@ -5517,6 +5577,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 14322,
       "quality_score": 64.8
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 14343,
+      "quality_score": 64.7
     }
   ],
   "modelcontextprotocol/typescript-sdk": [
@@ -5934,6 +5999,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 12720,
       "quality_score": 86.8
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 12723,
+      "quality_score": 86.9
     }
   ],
   "BeehiveInnovations/pal-mcp-server": [
@@ -6350,6 +6420,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 11607,
+      "quality_score": 72.0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 11610,
       "quality_score": 72.0
     }
   ],
@@ -6768,6 +6843,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 11980,
       "quality_score": 52.8
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 11985,
+      "quality_score": 52.8
     }
   ],
   "mcp-use/mcp-use": [
@@ -7184,6 +7264,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 10140,
+      "quality_score": 73.8
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 10145,
       "quality_score": 73.8
     }
   ],
@@ -7602,6 +7687,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 10179,
       "quality_score": 72.6
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 10188,
+      "quality_score": 72.6
     }
   ],
   "awslabs/mcp": [
@@ -8018,6 +8108,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 9328,
+      "quality_score": 72.1
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 9331,
       "quality_score": 72.1
     }
   ],
@@ -8436,6 +8531,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 8380,
       "quality_score": 70.6
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 8382,
+      "quality_score": 70.5
     }
   ],
   "idosal/git-mcp": [
@@ -8853,6 +8953,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 8206,
       "quality_score": 68.5
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 8205,
+      "quality_score": 68.4
     }
   ],
   "0x4m4/hexstrike-ai": [
@@ -9270,6 +9375,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 9891,
       "quality_score": 44.6
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 9924,
+      "quality_score": 44.5
     }
   ],
   "modelcontextprotocol/modelcontextprotocol": [
@@ -9687,6 +9797,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 8461,
       "quality_score": 72.9
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 8465,
+      "quality_score": 73.1
     }
   ],
   "mrexodia/ida-pro-mcp": [
@@ -10104,6 +10219,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 9613,
       "quality_score": 88.8
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 9647,
+      "quality_score": 88.7
     }
   ],
   "yzfly/Awesome-MCP-ZH": [
@@ -10520,6 +10640,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 7327,
+      "quality_score": 54.7
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 7334,
       "quality_score": 54.7
     }
   ],
@@ -10938,6 +11063,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 6952,
       "quality_score": 87.5
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 6954,
+      "quality_score": 87.8
     }
   ],
   "mksglu/context-mode": [
@@ -11354,6 +11484,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 18055,
+      "quality_score": 89.8
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 18138,
       "quality_score": 89.8
     }
   ],
@@ -11772,6 +11907,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 6721,
       "quality_score": 32.4
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 6727,
+      "quality_score": 32.4
     }
   ],
   "wonderwhy-er/DesktopCommanderMCP": [
@@ -12189,6 +12329,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 6205,
       "quality_score": 84.1
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 6208,
+      "quality_score": 84.6
     }
   ],
   "executeautomation/mcp-playwright": [
@@ -12605,6 +12750,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 5557,
+      "quality_score": 47.9
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 5558,
       "quality_score": 47.9
     }
   ],
@@ -13023,6 +13173,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 5628,
       "quality_score": 35.1
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 5629,
+      "quality_score": 35.0
     }
   ],
   "nanbingxyz/5ire": [
@@ -13440,6 +13595,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 5251,
       "quality_score": 87.2
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 5252,
+      "quality_score": 87.1
     }
   ],
   "getsentry/XcodeBuildMCP": [
@@ -13857,6 +14017,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 5973,
       "quality_score": 74.3
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 5977,
+      "quality_score": 74.2
     }
   ],
   "CursorTouch/Windows-MCP": [
@@ -14274,6 +14439,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 6218,
       "quality_score": 89.6
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 6235,
+      "quality_score": 89.5
     }
   ],
   "sooperset/mcp-atlassian": [
@@ -14691,6 +14861,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 5447,
       "quality_score": 86.1
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 5459,
+      "quality_score": 86.0
     }
   ],
   "aipotheosis-labs/aci": [
@@ -15108,6 +15283,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 4802,
       "quality_score": 67.3
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 4802,
+      "quality_score": 67.2
     }
   ],
   "21st-dev/magic-mcp": [
@@ -15525,6 +15705,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 5231,
       "quality_score": 30.1
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 5234,
+      "quality_score": 30.0
     }
   ],
   "MCP-UI-Org/mcp-ui": [
@@ -15942,6 +16127,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 4950,
       "quality_score": 63.9
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 4955,
+      "quality_score": 63.8
     }
   ],
   "modelcontextprotocol/go-sdk": [
@@ -16358,6 +16548,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 4721,
+      "quality_score": 74.2
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 4722,
       "quality_score": 74.2
     }
   ],
@@ -16776,6 +16971,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 5265,
       "quality_score": 86.4
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 5273,
+      "quality_score": 86.3
     }
   ],
   "modelcontextprotocol/csharp-sdk": [
@@ -17193,6 +17393,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 4346,
       "quality_score": 87.9
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 4349,
+      "quality_score": 88.0
     }
   ],
   "makenotion/notion-mcp-server": [
@@ -17610,6 +17815,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 4454,
       "quality_score": 67.6
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 4456,
+      "quality_score": 67.5
     }
   ],
   "exa-labs/exa-mcp-server": [
@@ -18026,6 +18236,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 4619,
+      "quality_score": 79.2
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 4625,
       "quality_score": 79.2
     }
   ],
@@ -18701,6 +18916,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 4273,
       "quality_score": 68.6
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 4276,
+      "quality_score": 68.5
     }
   ],
   "Pimzino/spec-workflow-mcp": [
@@ -19118,6 +19338,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 4244,
       "quality_score": 60.0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 4246,
+      "quality_score": 59.9
     }
   ],
   "agent-infra/sandbox": [
@@ -19535,6 +19760,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 5233,
       "quality_score": 70.0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 5243,
+      "quality_score": 69.9
     }
   ],
   "leerob/directories": [
@@ -20159,6 +20389,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 4182,
       "quality_score": 84.8
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 4183,
+      "quality_score": 84.7
     }
   ],
   "wong2/awesome-mcp-servers": [
@@ -20576,6 +20811,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 4182,
       "quality_score": 53.9
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 4181,
+      "quality_score": 53.8
     }
   ],
   "zebbern/claude-code-guide": [
@@ -20993,6 +21233,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 4331,
       "quality_score": 63.6
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 4333,
+      "quality_score": 63.6
     }
   ],
   "evalstate/fast-agent": [
@@ -21408,6 +21653,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 3837,
+      "quality_score": 89.4
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 3837,
       "quality_score": 89.4
     }
@@ -21999,6 +22249,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 3636,
       "quality_score": 73.3
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 3636,
+      "quality_score": 73.2
     }
   ],
   "haris-musa/excel-mcp-server": [
@@ -22416,6 +22671,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 3957,
       "quality_score": 76.3
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 3959,
+      "quality_score": 76.2
     }
   ],
   "cloudflare/mcp-server-cloudflare": [
@@ -22833,6 +23093,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 3889,
       "quality_score": 70.1
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 3891,
+      "quality_score": 70.0
     }
   ],
   "heilcheng/awesome-agent-skills": [
@@ -23250,6 +23515,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 5797,
       "quality_score": 38.4
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 5820,
+      "quality_score": 38.2
     }
   ],
   "IBM/mcp-context-forge": [
@@ -23666,6 +23936,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 3949,
+      "quality_score": 86.3
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 3957,
       "quality_score": 86.3
     }
   ],
@@ -24084,6 +24359,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 5864,
       "quality_score": 66.9
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 5868,
+      "quality_score": 66.8
     }
   ],
   "liaokongVFX/MCP-Chinese-Getting-Started-Guide": [
@@ -24500,6 +24780,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 3526,
+      "quality_score": 32.8
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 3530,
       "quality_score": 32.8
     }
   ],
@@ -24918,6 +25203,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 4160,
       "quality_score": 83.4
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 4162,
+      "quality_score": 83.3
     }
   ],
   "modelcontextprotocol/java-sdk": [
@@ -25335,6 +25625,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 3491,
       "quality_score": 71.0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 3492,
+      "quality_score": 71.1
     }
   ],
   "modelcontextprotocol/rust-sdk": [
@@ -25751,6 +26046,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 3557,
+      "quality_score": 73.8
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 3560,
       "quality_score": 73.8
     }
   ],
@@ -26169,6 +26469,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 3383,
       "quality_score": 79.1
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 3384,
+      "quality_score": 79.0
     }
   ],
   "MarkusPfundstein/mcp-obsidian": [
@@ -26586,6 +26891,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 3966,
       "quality_score": 57.7
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 3976,
+      "quality_score": 57.6
     }
   ],
   "punkpeye/fastmcp": [
@@ -26988,6 +27298,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 3204,
       "quality_score": 72.1
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 3206,
+      "quality_score": 72.0
     }
   ],
   "nerding-io/n8n-nodes-mcp": [
@@ -27404,6 +27719,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 3019,
+      "quality_score": 69.0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 3020,
       "quality_score": 69.0
     }
   ],
@@ -27822,6 +28142,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 3355,
       "quality_score": 72.5
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 3361,
+      "quality_score": 72.5
     }
   ],
   "Jpisnice/shadcn-ui-mcp-server": [
@@ -28239,6 +28564,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2808,
       "quality_score": 70.7
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2810,
+      "quality_score": 70.2
     }
   ],
   "CodeGraphContext/CodeGraphContext": [
@@ -28656,6 +28986,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 3804,
       "quality_score": 86.0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 3808,
+      "quality_score": 85.9
     }
   ],
   "EvoScientist/EvoScientist": [
@@ -29072,6 +29407,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 3757,
+      "quality_score": 88.7
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 3781,
       "quality_score": 88.7
     }
   ],
@@ -29490,6 +29830,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2711,
       "quality_score": 70.2
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2714,
+      "quality_score": 70.2
     }
   ],
   "zcaceres/markdownify-mcp": [
@@ -29907,6 +30252,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2757,
       "quality_score": 63.3
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2760,
+      "quality_score": 63.2
     }
   ],
   "bytebase/dbhub": [
@@ -30324,6 +30674,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 3024,
       "quality_score": 64.9
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 3031,
+      "quality_score": 64.8
     }
   ],
   "blazickjp/arxiv-mcp-server": [
@@ -30741,6 +31096,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2890,
       "quality_score": 85.2
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2895,
+      "quality_score": 85.1
     }
   ],
   "sparfenyuk/mcp-proxy": [
@@ -31158,6 +31518,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2609,
       "quality_score": 83.7
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2617,
+      "quality_score": 83.6
     }
   ],
   "brightdata/brightdata-mcp": [
@@ -31575,6 +31940,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2467,
       "quality_score": 88.1
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2469,
+      "quality_score": 88.0
     }
   ],
   "LeapLabTHU/cooragent": [
@@ -31991,6 +32361,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1727,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1728,
       "quality_score": 0
     }
   ],
@@ -32409,6 +32784,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2817,
       "quality_score": 52.5
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2821,
+      "quality_score": 52.4
     }
   ],
   "heshengtao/comfyui_LLM_party": [
@@ -32826,6 +33206,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2288,
       "quality_score": 84.9
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2289,
+      "quality_score": 84.8
     }
   ],
   "jamubc/gemini-mcp-tool": [
@@ -33243,6 +33628,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2245,
       "quality_score": 87.0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2246,
+      "quality_score": 87.2
     }
   ],
   "AmoyLab/Unla": [
@@ -33659,6 +34049,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2148,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2152,
       "quality_score": 0
     }
   ],
@@ -34077,6 +34472,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2337,
       "quality_score": 63.6
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2339,
+      "quality_score": 63.5
     }
   ],
   "cyberagiinc/DevDocs": [
@@ -34493,6 +34893,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2095,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2094,
       "quality_score": 0
     }
   ],
@@ -34911,6 +35316,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2631,
       "quality_score": 87.3
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2657,
+      "quality_score": 87.3
     }
   ],
   "codeany-ai/open-agent-sdk-typescript": [
@@ -35328,6 +35738,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2722,
       "quality_score": 39.8
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2723,
+      "quality_score": 39.7
     }
   ],
   "taylorwilsdon/google_workspace_mcp": [
@@ -35745,6 +36160,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2723,
       "quality_score": 88.2
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2737,
+      "quality_score": 88.0
     }
   ],
   "chatmcp/mcpso": [
@@ -36160,6 +36580,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 2020,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 2020,
       "quality_score": 0
     }
@@ -36579,6 +37004,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2188,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2190,
+      "quality_score": 0
     }
   ],
   "modelcontextprotocol/ext-apps": [
@@ -36996,6 +37426,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2476,
       "quality_score": 82.9
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2483,
+      "quality_score": 82.8
     }
   ],
   "agentset-ai/agentset": [
@@ -37411,6 +37846,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 2020,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 2020,
       "quality_score": 0
     }
@@ -37830,6 +38270,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1995,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1995,
+      "quality_score": 0
     }
   ],
   "microsoft/skills": [
@@ -38246,6 +38691,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2609,
+      "quality_score": 74.9
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2612,
       "quality_score": 74.9
     }
   ],
@@ -38664,6 +39114,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2059,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2060,
+      "quality_score": 0
     }
   ],
   "homeassistant-ai/ha-mcp": [
@@ -39080,6 +39535,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 3614,
+      "quality_score": 89.9
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 3634,
       "quality_score": 89.9
     }
   ],
@@ -39498,6 +39958,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2211,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2213,
+      "quality_score": 0
     }
   ],
   "MCPJam/inspector": [
@@ -39914,6 +40379,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2032,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2034,
       "quality_score": 0
     }
   ],
@@ -40332,6 +40802,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2249,
       "quality_score": 79.3
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2255,
+      "quality_score": 79.2
     }
   ],
   "modelcontextprotocol/mcpb": [
@@ -40747,6 +41222,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 1996,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 1996,
       "quality_score": 0
     }
@@ -41166,6 +41646,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2066,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2068,
+      "quality_score": 0
     }
   ],
   "PleasePrompto/notebooklm-mcp": [
@@ -41583,6 +42068,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2858,
       "quality_score": 57.6
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2864,
+      "quality_score": 57.5
     }
   ],
   "financial-datasets/mcp-server": [
@@ -41999,6 +42489,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2209,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2214,
       "quality_score": 0
     }
   ],
@@ -42569,6 +43064,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1904,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1908,
+      "quality_score": 0
     }
   ],
   "timescale/pg-aiguide": [
@@ -42984,6 +43484,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 1771,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 1771,
       "quality_score": 0
     }
@@ -43403,6 +43908,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1808,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1809,
+      "quality_score": 0
     }
   ],
   "yctimlin/mcp_excalidraw": [
@@ -43820,6 +44330,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2088,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2093,
+      "quality_score": 0
     }
   ],
   "leonardsellem/n8n-mcp-server": [
@@ -44235,6 +44750,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 1628,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 1628,
       "quality_score": 0
     }
@@ -44654,6 +45174,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1599,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1599,
+      "quality_score": 0
     }
   ],
   "CoderGamester/mcp-unity": [
@@ -45071,6 +45596,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1794,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1796,
+      "quality_score": 0
     }
   ],
   "f/mcptools": [
@@ -45486,6 +46016,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 1597,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 1597,
       "quality_score": 0
     }
@@ -45905,6 +46440,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1631,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1632,
+      "quality_score": 0
     }
   ],
   "anaisbetts/mcp-installer": [
@@ -46320,6 +46860,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 1530,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 1530,
       "quality_score": 0
     }
@@ -46739,6 +47284,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1729,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1731,
+      "quality_score": 0
     }
   ],
   "microsoft/azure-devops-mcp": [
@@ -47155,6 +47705,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1848,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1849,
       "quality_score": 0
     }
   ],
@@ -47573,6 +48128,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2170,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2177,
+      "quality_score": 0
     }
   ],
   "korotovsky/slack-mcp-server": [
@@ -47989,6 +48549,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1675,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1680,
       "quality_score": 0
     }
   ],
@@ -48424,6 +48989,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1868,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1874,
+      "quality_score": 0
     }
   ],
   "modelcontextprotocol/php-sdk": [
@@ -48840,6 +49410,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1541,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1542,
       "quality_score": 0
     }
   ],
@@ -49258,6 +49833,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1517,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1518,
+      "quality_score": 0
     }
   ],
   "jgravelle/jcodemunch-mcp": [
@@ -49675,6 +50255,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1935,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1941,
+      "quality_score": 0
     }
   ],
   "Flux159/mcp-server-kubernetes": [
@@ -50090,6 +50675,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 1443,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 1443,
       "quality_score": 0
     }
@@ -50509,6 +51099,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1716,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1717,
+      "quality_score": 0
     }
   ],
   "southleft/figma-console-mcp": [
@@ -50925,6 +51520,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1880,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1886,
       "quality_score": 0
     }
   ],
@@ -51343,6 +51943,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1464,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1465,
+      "quality_score": 0
     }
   ],
   "modelcontextprotocol/swift-sdk": [
@@ -51760,6 +52365,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1416,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1417,
+      "quality_score": 0
     }
   ],
   "regenrek/deepwiki-mcp": [
@@ -52175,6 +52785,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 1370,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 1370,
       "quality_score": 0
     }
@@ -52594,6 +53209,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1393,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1393,
+      "quality_score": 0
     }
   ],
   "qdrant/mcp-server-qdrant": [
@@ -53010,6 +53630,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1441,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1442,
       "quality_score": 0
     }
   ],
@@ -53428,6 +54053,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1430,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1432,
+      "quality_score": 0
     }
   ],
   "harishsg993010/damn-vulnerable-MCP-server": [
@@ -53843,6 +54473,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 1313,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 1313,
       "quality_score": 0
     }
@@ -54262,6 +54897,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2501,
       "quality_score": 88.0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2511,
+      "quality_score": 87.8
     }
   ],
   "refreshdotdev/web-eval-agent": [
@@ -54677,6 +55317,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 1242,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 1242,
       "quality_score": 0
     }
@@ -55096,6 +55741,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1273,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1275,
+      "quality_score": 0
     }
   ],
   "metoro-io/mcp-golang": [
@@ -55512,6 +56162,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1223,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1222,
       "quality_score": 0
     }
   ],
@@ -56347,6 +57002,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1309,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1310,
+      "quality_score": 0
     }
   ],
   "kimsungwhee/apple-docs-mcp": [
@@ -56764,6 +57424,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1326,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1329,
+      "quality_score": 0
     }
   ],
   "arabold/docs-mcp-server": [
@@ -57180,6 +57845,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1485,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1487,
       "quality_score": 0
     }
   ],
@@ -57860,6 +58530,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1254,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1255,
+      "quality_score": 0
     }
   ],
   "robotmcp/ros-mcp-server": [
@@ -58277,6 +58952,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1312,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1313,
+      "quality_score": 0
     }
   ],
   "lgazo/drawio-mcp-server": [
@@ -58692,6 +59372,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 1291,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 1291,
       "quality_score": 0
     }
@@ -59111,6 +59796,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1545,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1545,
+      "quality_score": 0
     }
   ],
   "GongRzhe/Gmail-MCP-Server": [
@@ -59526,6 +60216,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 1149,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 1149,
       "quality_score": 0
     }
@@ -60066,6 +60761,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1202,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1204,
       "quality_score": 0
     }
   ],
@@ -60616,6 +61316,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1124,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1123,
+      "quality_score": 0
     }
   ],
   "MiguelsPizza/WebMCP": [
@@ -61145,6 +61850,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1048,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1048,
+      "quality_score": 0
     }
   ],
   "chatmcp/mcp-server-chatsum": [
@@ -61560,6 +62270,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 1029,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 1029,
       "quality_score": 0
     }
@@ -61979,6 +62694,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1063,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1064,
+      "quality_score": 0
     }
   ],
   "jae-jae/fetcher-mcp": [
@@ -62396,6 +63116,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1058,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1060,
+      "quality_score": 0
     }
   ],
   "iannuttall/mcp-boilerplate": [
@@ -62811,6 +63536,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 1022,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 1022,
       "quality_score": 0
     }
@@ -63230,6 +63960,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1375,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1379,
+      "quality_score": 0
     }
   ],
   "bitbonsai/mcpvault": [
@@ -63646,6 +64381,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1454,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1460,
       "quality_score": 0
     }
   ],
@@ -64064,6 +64804,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1062,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1065,
+      "quality_score": 0
     }
   ],
   "datalayer/jupyter-mcp-server": [
@@ -64480,6 +65225,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1175,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1177,
       "quality_score": 0
     }
   ],
@@ -64898,6 +65648,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1008,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1009,
+      "quality_score": 0
     }
   ],
   "patruff/ollama-mcp-bridge": [
@@ -65315,6 +66070,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 975,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 975,
+      "quality_score": 0
     }
   ],
   "chrisryugj/korean-law-mcp": [
@@ -65686,6 +66446,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2037,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2049,
       "quality_score": 0
     }
   ],
@@ -66104,6 +66869,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1163,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1165,
+      "quality_score": 0
     }
   ],
   "JetBrains/mcp-jetbrains": [
@@ -66519,6 +67289,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 961,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 961,
       "quality_score": 0
     }
@@ -66938,6 +67713,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1279,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1284,
+      "quality_score": 0
     }
   ],
   "ghostwright/phantom": [
@@ -67353,6 +68133,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 1434,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 1434,
       "quality_score": 0
     }
@@ -67772,6 +68557,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 971,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 971,
+      "quality_score": 0
     }
   ],
   "pathintegral-institute/mcpm.sh": [
@@ -68187,6 +68977,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 977,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 977,
       "quality_score": 0
     }
@@ -68613,6 +69408,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 976,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 976,
+      "quality_score": 0
     }
   ],
   "antfu/nuxt-mcp-dev": [
@@ -69028,6 +69828,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 910,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 910,
       "quality_score": 0
     }
@@ -69447,6 +70252,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 896,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 896,
+      "quality_score": 0
     }
   ],
   "alioshr/memory-bank-mcp": [
@@ -69862,6 +70672,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 911,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 911,
       "quality_score": 0
     }
@@ -70281,6 +71096,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 973,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 971,
+      "quality_score": 0
     }
   ],
   "suekou/mcp-notion-server": [
@@ -70696,6 +71516,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 907,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 907,
       "quality_score": 0
     }
@@ -71115,6 +71940,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1229,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1231,
+      "quality_score": 0
     }
   ],
   "cisco-ai-defense/mcp-scanner": [
@@ -71531,6 +72361,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 971,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 972,
       "quality_score": 0
     }
   ],
@@ -71949,6 +72784,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1234,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1237,
+      "quality_score": 0
     }
   ],
   "better-auth/better-icons": [
@@ -72366,6 +73206,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1112,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1113,
+      "quality_score": 0
     }
   ],
   "rohitg00/kubectl-mcp-server": [
@@ -72781,6 +73626,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 916,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 916,
       "quality_score": 0
     }
@@ -73200,6 +74050,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1226,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1236,
+      "quality_score": 0
     }
   ],
   "ArcadeAI/arcade-mcp": [
@@ -73615,6 +74470,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 932,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 932,
       "quality_score": 0
     }
@@ -74034,6 +74894,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 848,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 849,
+      "quality_score": 0
     }
   ],
   "golf-mcp/golf": [
@@ -74451,6 +75316,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 833,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 833,
+      "quality_score": 0
     }
   ],
   "alexander-zuev/supabase-mcp-server": [
@@ -74866,6 +75736,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 827,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 827,
       "quality_score": 0
     }
@@ -75352,6 +76227,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 920,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 920,
+      "quality_score": 0
     }
   ],
   "Joooook/12306-mcp": [
@@ -75768,6 +76648,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 936,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 937,
       "quality_score": 0
     }
   ],
@@ -76433,6 +77318,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 781,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 782,
+      "quality_score": 0
     }
   ],
   "taybenlor/runno": [
@@ -76848,6 +77738,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 767,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 767,
       "quality_score": 0
     }
@@ -77267,6 +78162,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 764,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 764,
+      "quality_score": 0
     }
   ],
   "hyperbrowserai/mcp": [
@@ -77682,6 +78582,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 770,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 770,
       "quality_score": 0
     }
@@ -78101,6 +79006,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 830,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 830,
+      "quality_score": 0
     }
   ],
   "samuelgursky/davinci-resolve-mcp": [
@@ -78518,6 +79428,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1326,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1334,
+      "quality_score": 0
     }
   ],
   "saidsurucu/yargi-mcp": [
@@ -78933,6 +79848,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 991,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 991,
       "quality_score": 0
     }
@@ -79352,6 +80272,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 788,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 788,
+      "quality_score": 0
     }
   ],
   "waybarrios/vllm-mlx": [
@@ -79769,6 +80694,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1365,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1368,
+      "quality_score": 0
     }
   ],
   "googleapis/gcloud-mcp": [
@@ -80184,6 +81114,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 844,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 844,
       "quality_score": 0
     }
@@ -80603,6 +81538,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1012,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1015,
+      "quality_score": 0
     }
   ],
   "disler/just-prompt": [
@@ -81018,6 +81958,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 733,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 733,
       "quality_score": 0
     }
@@ -81437,6 +82382,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 769,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 770,
+      "quality_score": 0
     }
   ],
   "jlumbroso/passage-of-time-mcp": [
@@ -81852,6 +82802,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 715,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 715,
       "quality_score": 0
     }
@@ -82271,6 +83226,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 725,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 725,
+      "quality_score": 0
     }
   ],
   "mrkrsl/web-search-mcp": [
@@ -82688,6 +83648,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 973,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 975,
+      "quality_score": 0
     }
   ],
   "ckreiling/mcp-server-docker": [
@@ -83103,6 +84068,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 724,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 724,
       "quality_score": 0
     }
@@ -83522,6 +84492,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1116,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1118,
+      "quality_score": 0
     }
   ],
   "StevenStavrakis/obsidian-mcp": [
@@ -83937,6 +84912,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 716,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 716,
       "quality_score": 0
     }
@@ -84356,6 +85336,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1159,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1162,
+      "quality_score": 0
     }
   ],
   "coleam00/mcp-mem0": [
@@ -84771,6 +85756,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 677,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 677,
       "quality_score": 0
     }
@@ -85190,6 +86180,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 854,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 855,
+      "quality_score": 0
     }
   ],
   "jerry-ai-dev/MODULAR-RAG-MCP-SERVER": [
@@ -85605,6 +86600,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 1001,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 1001,
       "quality_score": 0
     }
@@ -86024,6 +87024,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 646,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 646,
+      "quality_score": 0
     }
   ],
   "semgrep/mcp": [
@@ -86439,6 +87444,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 672,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 672,
       "quality_score": 0
     }
@@ -86858,6 +87868,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 658,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 659,
+      "quality_score": 0
     }
   ],
   "zhizhuodemao/js-reverse-mcp": [
@@ -87275,6 +88290,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1989,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1998,
+      "quality_score": 0
     }
   ],
   "smithery-ai/cli": [
@@ -87690,6 +88710,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 774,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 774,
       "quality_score": 0
     }
@@ -88109,6 +89134,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 624,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 624,
+      "quality_score": 0
     }
   ],
   "getsentry/sentry-mcp": [
@@ -88524,6 +89554,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 741,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 741,
       "quality_score": 0
     }
@@ -88943,6 +89978,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 665,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 665,
+      "quality_score": 0
     }
   ],
   "SylphxAI/pdf-reader-mcp": [
@@ -89358,6 +90398,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 797,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 797,
       "quality_score": 0
     }
@@ -89777,6 +90822,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 734,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 734,
+      "quality_score": 0
     }
   ],
   "SixHq/Overture": [
@@ -90193,6 +91243,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 621,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 622,
       "quality_score": 0
     }
   ],
@@ -90611,6 +91666,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 737,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 736,
+      "quality_score": 0
     }
   ],
   "cyproxio/mcp-for-security": [
@@ -91027,6 +92087,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 620,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 621,
       "quality_score": 0
     }
   ],
@@ -91862,6 +92927,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 752,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 752,
+      "quality_score": 0
     }
   ],
   "alpacahq/alpaca-mcp-server": [
@@ -92277,6 +93347,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 842,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 842,
       "quality_score": 0
     }
@@ -93028,6 +94103,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 757,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 759,
+      "quality_score": 0
     }
   ],
   "Softeria/ms-365-mcp-server": [
@@ -93445,6 +94525,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 793,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 795,
+      "quality_score": 0
     }
   ],
   "karanb192/reddit-mcp-buddy": [
@@ -93861,6 +94946,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 724,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 727,
       "quality_score": 0
     }
   ],
@@ -94693,6 +95783,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 601,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 601,
+      "quality_score": 0
     }
   ],
   "spences10/mcp-sequentialthinking-tools": [
@@ -95182,6 +96277,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 611,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 612,
+      "quality_score": 0
     }
   ],
   "GH05TCREW/MetasploitMCP": [
@@ -95598,6 +96698,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 674,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 675,
       "quality_score": 0
     }
   ],
@@ -96120,6 +97225,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1343,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1350,
+      "quality_score": 0
     }
   ],
   "line/line-bot-mcp-server": [
@@ -96536,6 +97646,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 600,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 601,
       "quality_score": 0
     }
   ],
@@ -97003,6 +98118,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 560,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 560,
+      "quality_score": 0
     }
   ],
   "saidsurucu/borsa-mcp": [
@@ -97420,6 +98540,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 602,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 604,
+      "quality_score": 0
     }
   ],
   "atilaahmettaner/tradingview-mcp": [
@@ -97477,6 +98602,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 3222,
       "quality_score": 74.2
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 3236,
+      "quality_score": 74.1
     }
   ],
   "stuzero/pg-mcp-server": [
@@ -97892,6 +99022,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 541,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 541,
       "quality_score": 0
     }
@@ -98311,6 +99446,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 729,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 734,
+      "quality_score": 0
     }
   ],
   "whchien/ai-trader": [
@@ -98727,6 +99867,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 744,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 799,
       "quality_score": 0
     }
   ],
@@ -99145,6 +100290,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 627,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 628,
+      "quality_score": 0
     }
   ],
   "MxIris-Reverse-Engineering/ida-mcp-server": [
@@ -99560,6 +100710,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 544,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 544,
       "quality_score": 0
     }
@@ -99979,6 +101134,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 543,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 543,
+      "quality_score": 0
     }
   ],
   "dbt-labs/dbt-mcp": [
@@ -100394,6 +101554,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 583,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 583,
       "quality_score": 0
     }
@@ -100813,6 +101978,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 570,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 570,
+      "quality_score": 0
     }
   ],
   "utensils/mcp-nixos": [
@@ -101230,6 +102400,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 717,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 720,
+      "quality_score": 0
     }
   ],
   "maquina-app/rails-mcp-server": [
@@ -101646,6 +102821,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 561,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 562,
       "quality_score": 0
     }
   ],
@@ -102466,6 +103646,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 530,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 530,
+      "quality_score": 0
     }
   ],
   "Coolver/home-assistant-vibecode-agent": [
@@ -102882,6 +104067,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 582,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 584,
       "quality_score": 0
     }
   ],
@@ -103300,6 +104490,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 563,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 562,
+      "quality_score": 0
     }
   ],
   "mnemox-ai/idea-reality-mcp": [
@@ -103715,6 +104910,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 726,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 726,
       "quality_score": 0
     }
@@ -104134,6 +105334,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 587,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 588,
+      "quality_score": 0
     }
   ],
   "CursorTouch/Android-MCP": [
@@ -104550,6 +105755,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 694,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 696,
       "quality_score": 0
     }
   ],
@@ -105467,6 +106677,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 492,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 492,
+      "quality_score": 0
     }
   ],
   "modelcontextprotocol/create-python-server": [
@@ -106086,6 +107301,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 539,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 540,
+      "quality_score": 0
     }
   ],
   "cyanheads/atlas-mcp-server": [
@@ -106501,6 +107721,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 477,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 477,
       "quality_score": 0
     }
@@ -107177,6 +108402,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 499,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 499,
+      "quality_score": 0
     }
   ],
   "wshobson/maverick-mcp": [
@@ -107592,6 +108822,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 603,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 603,
       "quality_score": 0
     }
@@ -108627,6 +109862,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 497,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 497,
+      "quality_score": 0
     }
   ],
   "ChiR24/Unreal_mcp": [
@@ -109043,6 +110283,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 750,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 754,
       "quality_score": 0
     }
   ],
@@ -109598,6 +110843,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 462,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 462,
+      "quality_score": 0
     }
   ],
   "domdomegg/airtable-mcp-server": [
@@ -110013,6 +111263,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 450,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 450,
       "quality_score": 0
     }
@@ -110432,6 +111687,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 430,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 430,
+      "quality_score": 0
     }
   ],
   "merajmehrabi/puppeteer-mcp-server": [
@@ -110847,6 +112107,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 468,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 468,
       "quality_score": 0
     }
@@ -111265,6 +112530,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 604,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 606,
       "quality_score": 0
     }
   ],
@@ -111792,6 +113062,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 474,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 475,
+      "quality_score": 0
     }
   ],
   "1mcp-app/agent": [
@@ -112207,6 +113482,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 459,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 459,
       "quality_score": 0
     }
@@ -112626,6 +113906,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 482,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 483,
+      "quality_score": 0
     }
   ],
   "runekaagaard/mcp-alchemy": [
@@ -113041,6 +114326,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 411,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 411,
       "quality_score": 0
     }
@@ -113460,6 +114750,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 459,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 460,
+      "quality_score": 0
     }
   ],
   "tuannvm/codex-mcp-server": [
@@ -113875,6 +115170,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 493,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 493,
       "quality_score": 0
     }
@@ -114294,6 +115594,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 515,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 515,
+      "quality_score": 0
     }
   ],
   "EnesCinr/twitter-mcp": [
@@ -114709,6 +116014,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 399,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 399,
       "quality_score": 0
     }
@@ -115128,6 +116438,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 407,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 408,
+      "quality_score": 0
     }
   ],
   "blurrah/mcp-graphql": [
@@ -115543,6 +116858,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 394,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 394,
       "quality_score": 0
     }
@@ -115962,6 +117282,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 375,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 375,
+      "quality_score": 0
     }
   ],
   "mcpdotdirect/evm-mcp-server": [
@@ -116377,6 +117702,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 377,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 377,
       "quality_score": 0
     }
@@ -116796,6 +118126,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 389,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 389,
+      "quality_score": 0
     }
   ],
   "r-huijts/xcode-mcp-server": [
@@ -117211,6 +118546,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 380,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 380,
       "quality_score": 0
     }
@@ -117630,6 +118970,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 682,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 683,
+      "quality_score": 0
     }
   ],
   "InditexTech/mcp-teams-server": [
@@ -118045,6 +119390,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 379,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 379,
       "quality_score": 0
     }
@@ -118464,6 +119814,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 373,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 373,
+      "quality_score": 0
     }
   ],
   "FreePeak/db-mcp-server": [
@@ -118879,6 +120234,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 393,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 393,
       "quality_score": 0
     }
@@ -119298,6 +120658,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 510,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 511,
+      "quality_score": 0
     }
   ],
   "Tiberriver256/mcp-server-azure-devops": [
@@ -119713,6 +121078,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 376,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 376,
       "quality_score": 0
     }
@@ -120132,6 +121502,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 388,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 388,
+      "quality_score": 0
     }
   ],
   "awslabs/run-model-context-protocol-servers-with-aws-lambda": [
@@ -120547,6 +121922,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 373,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 373,
       "quality_score": 0
     }
@@ -120965,6 +122345,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 481,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 480,
       "quality_score": 0
     }
   ],
@@ -121725,6 +123110,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 374,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 374,
+      "quality_score": 0
     }
   ],
   "kagisearch/kagimcp": [
@@ -122140,6 +123530,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 429,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 429,
       "quality_score": 0
     }
@@ -123103,6 +124498,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 361,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 362,
+      "quality_score": 0
     }
   ],
   "hemanth/paws-on-mcp": [
@@ -123914,6 +125314,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 365,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 365,
+      "quality_score": 0
     }
   ],
   "mapbox/mcp-server": [
@@ -124329,6 +125734,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 347,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 347,
       "quality_score": 0
     }
@@ -124747,6 +126157,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 334,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 336,
       "quality_score": 0
     }
   ],
@@ -125342,6 +126757,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 383,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 383,
+      "quality_score": 0
     }
   ],
   "JoshuaRileyDev/app-store-connect-mcp-server": [
@@ -125757,6 +127177,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 327,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 327,
       "quality_score": 0
     }
@@ -126176,6 +127601,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 343,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 343,
+      "quality_score": 0
     }
   ],
   "bigcodegen/mcp-neovim-server": [
@@ -126591,6 +128021,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 320,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 320,
       "quality_score": 0
     }
@@ -127010,6 +128445,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 352,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 352,
+      "quality_score": 0
     }
   ],
   "andrea9293/mcp-documentation-server": [
@@ -127425,6 +128865,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 326,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 326,
       "quality_score": 0
     }
@@ -127844,6 +129289,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 345,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 346,
+      "quality_score": 0
     }
   ],
   "InditexTech/mcp-server-simulator-ios-idb": [
@@ -128260,6 +129710,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 306,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 305,
       "quality_score": 0
     }
   ],
@@ -128678,6 +130133,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 574,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 575,
+      "quality_score": 0
     }
   ],
   "FradSer/mcp-server-mas-sequential-thinking": [
@@ -129093,6 +130553,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 304,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 304,
       "quality_score": 0
     }
@@ -129512,6 +130977,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 300,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 301,
+      "quality_score": 0
     }
   ],
   "coleam00/remote-mcp-server-with-auth": [
@@ -129927,6 +131397,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 295,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 295,
       "quality_score": 0
     }
@@ -130346,6 +131821,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 402,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 402,
+      "quality_score": 0
     }
   ],
   "wenb1n-dev/mysql_mcp_server_pro": [
@@ -130761,6 +132241,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 245,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 245,
       "quality_score": 0
     }
@@ -131180,6 +132665,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 593,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 598,
+      "quality_score": 0
     }
   ],
   "wrale/mcp-server-tree-sitter": [
@@ -131595,6 +133085,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 309,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 309,
       "quality_score": 0
     }
@@ -132014,6 +133509,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 279,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 279,
+      "quality_score": 0
     }
   ],
   "YanxingLiu/dify-mcp-server": [
@@ -132429,6 +133929,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 276,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 276,
       "quality_score": 0
     }
@@ -132848,6 +134353,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 306,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 306,
+      "quality_score": 0
     }
   ],
   "strands-agents/mcp-server": [
@@ -133263,6 +134773,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 287,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 287,
       "quality_score": 0
     }
@@ -133682,6 +135197,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 300,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 301,
+      "quality_score": 0
     }
   ],
   "marcelmarais/spotify-mcp-server": [
@@ -134099,6 +135619,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 375,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 376,
+      "quality_score": 0
     }
   ],
   "joenorton/comfyui-mcp-server": [
@@ -134514,6 +136039,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 365,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 365,
       "quality_score": 0
     }
@@ -134933,6 +136463,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 332,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 332,
+      "quality_score": 0
     }
   ],
   "zhongweili/nanobanana-mcp-server": [
@@ -135350,6 +136885,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 366,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 367,
+      "quality_score": 0
     }
   ],
   "JackKuo666/Google-Scholar-MCP-Server": [
@@ -135765,6 +137305,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 366,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 366,
       "quality_score": 0
     }
@@ -136184,6 +137729,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 290,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 290,
+      "quality_score": 0
     }
   ],
   "Shelpuk-AI-Technology-Consulting/kindly-web-search-mcp-server": [
@@ -136599,6 +138149,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 349,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 349,
       "quality_score": 0
     }
@@ -137018,6 +138573,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 274,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 274,
+      "quality_score": 0
     }
   ],
   "PraneshASP/foundry-mcp-server": [
@@ -137435,6 +138995,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 250,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 250,
+      "quality_score": 0
     }
   ],
   "formulahendry/mcp-server-code-runner": [
@@ -137850,6 +139415,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 241,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 241,
       "quality_score": 0
     }
@@ -138401,6 +139971,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 285,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 285,
+      "quality_score": 0
     }
   ],
   "nailuoGG/anki-mcp-server": [
@@ -138818,6 +140393,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 243,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 244,
+      "quality_score": 0
     }
   ],
   "XGenerationLab/xiyan_mcp_server": [
@@ -139233,6 +140813,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 236,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 236,
       "quality_score": 0
     }
@@ -139652,6 +141237,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 234,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 234,
+      "quality_score": 0
     }
   ],
   "aws-samples/sample-serverless-mcp-servers": [
@@ -140067,6 +141657,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 239,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 239,
       "quality_score": 0
     }
@@ -140486,6 +142081,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 313,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 313,
+      "quality_score": 0
     }
   ],
   "YuChenSSR/mindmap-mcp-server": [
@@ -140901,6 +142501,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 234,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 234,
       "quality_score": 0
     }
@@ -141320,6 +142925,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 227,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 227,
+      "quality_score": 0
     }
   ],
   "ivnvxd/mcp-server-odoo": [
@@ -141735,6 +143345,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 324,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 324,
       "quality_score": 0
     }
@@ -142154,6 +143769,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 233,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 233,
+      "quality_score": 0
     }
   ],
   "ericzakariasson/uber-eats-mcp-server": [
@@ -142569,6 +144189,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 230,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 230,
       "quality_score": 0
     }
@@ -142988,6 +144613,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 253,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 254,
+      "quality_score": 0
     }
   ],
   "hellokaton/unsplash-mcp-server": [
@@ -143403,6 +145033,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 224,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 224,
       "quality_score": 0
     }
@@ -143822,6 +145457,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 209,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 209,
+      "quality_score": 0
     }
   ],
   "ai-zerolab/mcp-email-server": [
@@ -144239,6 +145879,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 264,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 266,
+      "quality_score": 0
     }
   ],
   "alexei-led/k8s-mcp-server": [
@@ -144654,6 +146299,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 210,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 210,
       "quality_score": 0
     }
@@ -145073,6 +146723,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 265,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 266,
+      "quality_score": 0
     }
   ],
   "cyanheads/git-mcp-server": [
@@ -145488,6 +147143,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 223,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 223,
       "quality_score": 0
     }
@@ -145907,6 +147567,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 347,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 350,
+      "quality_score": 0
     }
   ],
   "adamwattis/mcp-proxy-server": [
@@ -146322,6 +147987,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 198,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 198,
       "quality_score": 0
     }
@@ -146741,6 +148411,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 228,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 228,
+      "quality_score": 0
     }
   ],
   "mvilanova/intervals-mcp-server": [
@@ -147157,6 +148832,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 298,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 299,
       "quality_score": 0
     }
   ],
@@ -147575,6 +149255,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 249,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 250,
+      "quality_score": 0
     }
   ],
   "jinzcdev/markmap-mcp-server": [
@@ -147990,6 +149675,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 214,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 214,
       "quality_score": 0
     }
@@ -148409,6 +150099,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 193,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 194,
+      "quality_score": 0
     }
   ],
   "loonghao/photoshop-python-api-mcp-server": [
@@ -148825,6 +150520,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 262,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 264,
       "quality_score": 0
     }
   ],
@@ -149243,6 +150943,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 232,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 233,
+      "quality_score": 0
     }
   ],
   "ariadng/metatrader-mcp-server": [
@@ -149660,6 +151365,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 559,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 573,
+      "quality_score": 0
     }
   ],
   "taida957789/ida-mcp-server-plugin": [
@@ -150075,6 +151785,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 187,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 187,
       "quality_score": 0
     }
@@ -150494,6 +152209,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 214,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 214,
+      "quality_score": 0
     }
   ],
   "makeplane/plane-mcp-server": [
@@ -150911,6 +152631,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 251,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 252,
+      "quality_score": 0
     }
   ],
   "dvcrn/mcp-server-siri-shortcuts": [
@@ -151326,6 +153051,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 190,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 190,
       "quality_score": 0
     }
@@ -152022,6 +153752,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 188,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 188,
+      "quality_score": 0
     }
   ],
   "traceloop/opentelemetry-mcp-server": [
@@ -152437,6 +154172,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 192,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 192,
       "quality_score": 0
     }
@@ -152948,6 +154688,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 183,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 183,
+      "quality_score": 0
     }
   ],
   "ravikiranvm/aws-finops-mcp-server": [
@@ -153363,6 +155108,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 179,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 179,
       "quality_score": 0
     }
@@ -154039,6 +155789,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 177,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 177,
+      "quality_score": 0
     }
   ],
   "tumf/mcp-shell-server": [
@@ -154454,6 +156209,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 176,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 176,
       "quality_score": 0
     }
@@ -154872,6 +156632,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 280,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 283,
       "quality_score": 0
     }
   ],
@@ -155502,6 +157267,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 209,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 209,
+      "quality_score": 0
     }
   ],
   "ericzakariasson/pg-mcp-server": [
@@ -155917,6 +157687,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 178,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 178,
       "quality_score": 0
     }
@@ -156336,6 +158111,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 221,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 221,
+      "quality_score": 0
     }
   ],
   "MladenSU/cli-mcp-server": [
@@ -156751,6 +158531,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 171,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 171,
       "quality_score": 0
     }
@@ -157170,6 +158955,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 176,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 176,
+      "quality_score": 0
     }
   ],
   "ali-kamali/Axon.MCP.Server": [
@@ -157585,6 +159375,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 166,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 166,
       "quality_score": 0
     }
@@ -158004,6 +159799,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 178,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 178,
+      "quality_score": 0
     }
   ],
   "langfuse/mcp-server-langfuse": [
@@ -158419,6 +160219,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 166,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 166,
       "quality_score": 0
     }
@@ -158838,6 +160643,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 161,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 161,
+      "quality_score": 0
     }
   ],
   "alejandro-ao/mcp-server-example": [
@@ -159253,6 +161063,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 159,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 159,
       "quality_score": 0
     }
@@ -159672,6 +161487,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 188,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 188,
+      "quality_score": 0
     }
   ],
   "GobinFan/python-mcp-server-client": [
@@ -160087,6 +161907,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 153,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 153,
       "quality_score": 0
     }
@@ -160506,6 +162331,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 177,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 178,
+      "quality_score": 0
     }
   ],
   "metatool-ai/mcp-server-metamcp": [
@@ -160921,6 +162751,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 153,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 153,
       "quality_score": 0
     }
@@ -161340,6 +163175,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 162,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 161,
+      "quality_score": 0
     }
   ],
   "integromat/make-mcp-server": [
@@ -161755,6 +163595,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 161,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 161,
       "quality_score": 0
     }
@@ -162174,6 +164019,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 167,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 167,
+      "quality_score": 0
     }
   ],
   "marcopesani/mcp-server-serper": [
@@ -162589,6 +164439,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 157,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 157,
       "quality_score": 0
     }
@@ -163008,6 +164863,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 147,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 147,
+      "quality_score": 0
     }
   ],
   "kubeflow/mcp-apache-spark-history-server": [
@@ -163423,6 +165283,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 178,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 178,
       "quality_score": 0
     }
@@ -164169,6 +166034,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 217,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 217,
+      "quality_score": 0
     }
   ],
   "tsmztech/mcp-server-salesforce": [
@@ -164584,6 +166454,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 160,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 160,
       "quality_score": 0
     }
@@ -165003,6 +166878,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 157,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 157,
+      "quality_score": 0
     }
   ],
   "delano/postman-mcp-server": [
@@ -165418,6 +167298,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 155,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 155,
       "quality_score": 0
     }
@@ -165836,6 +167721,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 149,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 148,
       "quality_score": 0
     }
   ],
@@ -166958,6 +168848,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 188,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 189,
+      "quality_score": 0
     }
   ],
   "hypothesi/mcp-server-tauri": [
@@ -167375,6 +169270,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 245,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 246,
+      "quality_score": 0
     }
   ],
   "shadowcz007/mcp_server_exe": [
@@ -167790,6 +169690,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 154,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 154,
       "quality_score": 0
     }
@@ -168209,6 +170114,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 193,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 193,
+      "quality_score": 0
     }
   ],
   "winor30/mcp-server-datadog": [
@@ -168626,6 +170536,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 142,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 142,
+      "quality_score": 0
     }
   ],
   "aashari/mcp-server-atlassian-bitbucket": [
@@ -169041,6 +170956,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 156,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 156,
       "quality_score": 0
     }
@@ -169467,6 +171387,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 153,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 154,
+      "quality_score": 0
     }
   ],
   "lucasmontano/mcp-montano-server": [
@@ -169884,6 +171809,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 135,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 135,
+      "quality_score": 0
     }
   ],
   "jhacksman/OpenSCAD-MCP-Server": [
@@ -170289,6 +172219,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 159,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 159,
       "quality_score": 0
     }
@@ -170706,6 +172641,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 164,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 164,
       "quality_score": 0
     }
@@ -171182,6 +173122,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 143,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 143,
+      "quality_score": 0
     }
   ],
   "intuit/quickbooks-online-mcp-server": [
@@ -171598,6 +173543,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 293,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 295,
       "quality_score": 0
     }
   ],
@@ -172016,6 +173966,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 160,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 161,
+      "quality_score": 0
     }
   ],
   "doggybee/mcp-server-ccxt": [
@@ -172431,6 +174386,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 138,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 138,
       "quality_score": 0
     }
@@ -172850,6 +174810,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 203,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 203,
+      "quality_score": 0
     }
   ],
   "browserstack/mcp-server": [
@@ -173265,6 +175230,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 145,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 145,
       "quality_score": 0
     }
@@ -173684,6 +175654,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 173,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 173,
+      "quality_score": 0
     }
   ],
   "imbenrabi/Financial-Modeling-Prep-MCP-Server": [
@@ -174099,6 +176074,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 137,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 137,
       "quality_score": 0
     }
@@ -174835,6 +176815,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 171,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 171,
+      "quality_score": 0
     }
   ],
   "its-dart/dart-mcp-server": [
@@ -175250,6 +177235,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 128,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 128,
       "quality_score": 0
     }
@@ -176059,6 +178049,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 695,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 698,
+      "quality_score": 0
     }
   ],
   "r-huijts/strava-mcp": [
@@ -176471,6 +178466,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 447,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 447,
+      "quality_score": 0
     }
   ],
   "webiny/webiny-js": [
@@ -176878,6 +178878,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 7992,
       "quality_score": 72.8
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 7993,
+      "quality_score": 72.8
     }
   ],
   "FuzzingLabs/secpipe": [
@@ -177283,6 +179288,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 798,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 798,
       "quality_score": 0
     }
@@ -177692,6 +179702,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1236,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1243,
+      "quality_score": 0
     }
   ],
   "tradesdontlie/tradingview-mcp": [
@@ -178089,6 +180104,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 3910,
       "quality_score": 54.3
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 3928,
+      "quality_score": 54.2
     }
   ],
   "thrashr888/terraform-mcp-server": [
@@ -178488,6 +180508,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 810,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 810,
+      "quality_score": 0
     }
   ],
   "ergut/mcp-bigquery-server": [
@@ -178868,6 +180893,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 143,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 143,
       "quality_score": 0
     }
@@ -179252,6 +181282,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 133,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 133,
       "quality_score": 0
     }
@@ -180002,6 +182037,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1471,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1473,
+      "quality_score": 0
     }
   ],
   "robcerda/monarch-mcp-server": [
@@ -180364,6 +182404,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 257,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 257,
+      "quality_score": 0
     }
   ],
   "webflow/mcp-server": [
@@ -180710,6 +182755,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 131,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 132,
       "quality_score": 0
     }
   ],
@@ -181061,6 +183111,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 825,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 825,
       "quality_score": 0
     }
@@ -181482,6 +183537,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1051,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1052,
+      "quality_score": 0
     }
   ],
   "Mouseww/anything-analyzer": [
@@ -181824,6 +183884,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2991,
       "quality_score": 77.0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 3009,
+      "quality_score": 76.9
     }
   ],
   "mediar-ai/mcp-server-macos-use": [
@@ -182193,6 +184258,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1006,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1013,
+      "quality_score": 0
     }
   ],
   "google-labs-code/stitch-skills": [
@@ -182510,6 +184580,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 6140,
       "quality_score": 70.1
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 6159,
+      "quality_score": 70.0
     }
   ],
   "yuque/yuque-mcp-server": [
@@ -182822,6 +184897,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 181,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 181,
+      "quality_score": 0
     }
   ],
   "punkpeye/vitemcp": [
@@ -183131,6 +185211,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1643,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1646,
+      "quality_score": 0
     }
   ],
   "6551Team/opennews-mcp": [
@@ -183392,6 +185477,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1681,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1695,
       "quality_score": 0
     }
   ],
@@ -183765,6 +185855,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 1286,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 1286,
       "quality_score": 0
     }
@@ -184261,6 +186356,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2675,
       "quality_score": 90.0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2675,
+      "quality_score": 90.0
     }
   ],
   "Dakkshin/after-effects-mcp": [
@@ -184536,6 +186636,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 447,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 447,
       "quality_score": 0
     }
@@ -184817,6 +186922,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1923,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1925,
+      "quality_score": 0
     }
   ],
   "openclaw/mcporter": [
@@ -185064,6 +187174,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 4689,
       "quality_score": 89.9
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 4694,
+      "quality_score": 89.8
     }
   ],
   "nowork-studio/toprank": [
@@ -185388,6 +187503,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 915,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 921,
+      "quality_score": 0
     }
   ],
   "aws/agent-toolkit-for-aws": [
@@ -185614,6 +187734,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 986,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1000,
       "quality_score": 0
     }
   ],
@@ -186026,6 +188151,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1018,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1019,
+      "quality_score": 0
     }
   ],
   "base/base-mcp-legacy": [
@@ -186405,6 +188535,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 176,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 177,
+      "quality_score": 0
     }
   ],
   "kucherenko/jscpd": [
@@ -186607,6 +188742,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 5805,
       "quality_score": 73.9
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 5807,
+      "quality_score": 73.9
     }
   ],
   "coddingtonbear/obsidian-local-rest-api": [
@@ -186804,6 +188944,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2514,
       "quality_score": 73.1
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2522,
+      "quality_score": 73.0
     }
   ],
   "Pantheon-Security/medusa": [
@@ -187183,6 +189328,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 680,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 686,
+      "quality_score": 0
     }
   ],
   "OctagonAI/octagon-mcp-server": [
@@ -187354,6 +189504,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 134,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 135,
       "quality_score": 0
     }
   ],
@@ -187566,6 +189721,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 730,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 732,
+      "quality_score": 0
     }
   ],
   "nowork-studio/NotFair": [
@@ -187723,6 +189883,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 2979,
       "quality_score": 68.6
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2991,
+      "quality_score": 68.5
     }
   ],
   "bgauryy/octocode": [
@@ -187880,6 +190045,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 868,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 867,
+      "quality_score": 0
     }
   ],
   "0xSteph/pentest-ai": [
@@ -188032,6 +190202,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 894,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 897,
+      "quality_score": 0
     }
   ],
   "runesleo/x-reader": [
@@ -188179,6 +190354,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 949,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 948,
+      "quality_score": 0
     }
   ],
   "ai-boost/awesome-harness-engineering": [
@@ -188320,6 +190500,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1994,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 2010,
       "quality_score": 0
     }
   ],
@@ -188463,6 +190648,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1231,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1236,
+      "quality_score": 0
     }
   ],
   "alexei-led/cloud-mcp-server": [
@@ -188605,6 +190795,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 183,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 183,
+      "quality_score": 0
     }
   ],
   "enuno/unifi-mcp-server": [
@@ -188735,6 +190930,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 175,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 175,
       "quality_score": 0
     }
@@ -188869,6 +191069,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 147,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 147,
+      "quality_score": 0
     }
   ],
   "zongmin-yu/semantic-scholar-fastmcp-mcp-server": [
@@ -188961,6 +191166,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 156,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 156,
+      "quality_score": 0
     }
   ],
   "jacob-bd/notebooklm-mcp-cli": [
@@ -189048,6 +191258,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 5031,
       "quality_score": 89.6
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 5038,
+      "quality_score": 89.5
     }
   ],
   "OpenOSINT/OpenOSINT": [
@@ -189135,6 +191350,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 754,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 761,
+      "quality_score": 0
     }
   ],
   "Qoyyuum/mcp-metatrader5-server": [
@@ -189210,6 +191430,11 @@
     },
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
+      "stars": 165,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
       "stars": 165,
       "quality_score": 0
     }
@@ -189289,6 +191514,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 149,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 151,
+      "quality_score": 0
     }
   ],
   "isair/jarvis": [
@@ -189351,6 +191581,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 1259,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1260,
+      "quality_score": 0
     }
   ],
   "Storybloq/storybloq": [
@@ -189397,6 +191632,11 @@
     {
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 625,
+      "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 628,
       "quality_score": 0
     }
   ],
@@ -189445,6 +191685,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 671,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 674,
+      "quality_score": 0
     }
   ],
   "cablate/mcp-google-map": [
@@ -189492,6 +191737,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 357,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 359,
+      "quality_score": 0
     }
   ],
   "aaronsb/obsidian-mcp-plugin": [
@@ -189529,6 +191779,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 423,
       "quality_score": 0
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 427,
+      "quality_score": 0
     }
   ],
   "headroomlabs-ai/headroom": [
@@ -189546,6 +191801,11 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 49133,
       "quality_score": 85.1
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 50373,
+      "quality_score": 85.5
     }
   ],
   "FlorianBruniaux/claude-code-ultimate-guide": [
@@ -189563,6 +191823,18 @@
       "timestamp": "2026-06-24T10:21:01.167973+00:00",
       "stars": 5185,
       "quality_score": 72.8
+    },
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 5203,
+      "quality_score": 72.8
+    }
+  ],
+  "6551Team/opentwitter-mcp": [
+    {
+      "timestamp": "2026-06-25T10:14:10.812789+00:00",
+      "stars": 1264,
+      "quality_score": 0
     }
   ]
 }
