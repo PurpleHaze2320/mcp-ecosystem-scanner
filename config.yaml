@@ -17,6 +17,7 @@ discovery:
     - wong2/awesome-mcp-servers
     - appcypher/awesome-mcp-servers
     - microsoft/mcp
+    - Xquik-dev/x-twitter-scraper
 
   # Minimum stars to include (filters out noise)
   min_stars: 3
